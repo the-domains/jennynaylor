@@ -1,0 +1,28 @@
+name: jennynaylor
+favicon: null
+layout_spectrum: 0.6246254844591022
+typography_spectrum: 0.04442937928251922
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.034430597675964236
+  lightness: 0.6738537440542132
+  saturation: 0.4056717627681792
+  rhythmicContrast: 0.41848748340271413
+purpose: []
